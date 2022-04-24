@@ -93,7 +93,6 @@ public class Panel extends JPanel {
                     x += speed;
                     y -= speed;
                 }
-
                 if (x > 1000 - 120) {
                     if (napravlenie == 1) {
                         napravlenie = 3;
@@ -159,7 +158,6 @@ public class Panel extends JPanel {
                     x_mars += speed;
                     y_mars -= speed;
                 }
-
                 if (x_mars > 1000 - 120) {
                     if (napravlenie_mars == 1) {
                         napravlenie_mars = 3;
