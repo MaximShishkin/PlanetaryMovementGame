@@ -1,4 +1,4 @@
-package ru.shishkin.planetaryMovementGame;
+package ru.shishkin.planetarymovementgame;
 
 import javax.swing.JFrame;
 

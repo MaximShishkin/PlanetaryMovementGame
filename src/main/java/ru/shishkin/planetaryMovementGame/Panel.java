@@ -1,4 +1,4 @@
-package ru.shishkin.planetaryMovementGame;
+package ru.shishkin.planetarymovementgame;
 
 import java.awt.Color;
 import java.awt.Graphics;
@@ -46,8 +46,11 @@ public class Panel extends JPanel {
             if (keycode == 105) napravlenie_mars = 7;
         }
 
-        public void keyReleased(KeyEvent e) {}
-        public void keyTyped(KeyEvent e) {}
+        public void keyReleased(KeyEvent e) {
+        }
+
+        public void keyTyped(KeyEvent e) {
+        }
     }
 
     Panel() {
