@@ -10,9 +10,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="25sx1RWaSc4BRlLuWhCZmcDAJ03" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -20,7 +20,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.ru.shishkin.maxim.planetaryMovement.App.executor": "Run",
     "Maven.PlanetaryMovement [clean].executor": "Run",
+    "Maven.PlanetaryMovement [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/Admin/Desktop/gitt/planetary-movement",
@@ -35,7 +37,7 @@
       <recent name="D:\Files\MakShish\Desktop\git\PlanetaryMovementGame\src\ru\shishkin\planetaryMovementGame " />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.ru.shishkin.maxim.planetaryMovement.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.shishkin.planetaryMovement.App" />
       <module name="PlanetaryMovement" />
@@ -56,8 +58,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ru.shishkin.maxim.planetaryMovement.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.shishkin.maxim.planetaryMovement.App" />
+      <module name="PlanetaryMovement" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ru.shishkin.maxim.planetaryMovement.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Application" />
       </list>

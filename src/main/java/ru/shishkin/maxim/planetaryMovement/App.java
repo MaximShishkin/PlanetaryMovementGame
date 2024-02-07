@@ -1,4 +1,4 @@
-package ru.shishkin.planetaryMovement;
+package ru.shishkin.maxim.planetaryMovement;
 
 import javax.swing.JFrame;
 

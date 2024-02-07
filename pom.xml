@@ -24,7 +24,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>ru.shishkin.planetaryMovement.App</mainClass>
+                            <mainClass>ru.shishkin.maxim.planetaryMovement.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
