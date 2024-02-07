@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.shishkin</groupId>
-    <artifactId>PlanetaryMovementGame</artifactId>
+    <artifactId>PlanetaryMovement</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <maven.compiler.source>15</maven.compiler.source>
-        <maven.compiler.target>15</maven.compiler.target>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
     </properties>
 
     <build>
@@ -24,7 +24,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
-                            <mainClass>ru.shishkin.planetarymovementgame.Application</mainClass>
+                            <mainClass>ru.shishkin.planetaryMovement.App</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

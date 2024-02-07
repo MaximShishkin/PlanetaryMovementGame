@@ -1,8 +1,8 @@
-package ru.shishkin.planetarymovementgame;
+package ru.shishkin.planetaryMovement;
 
 import javax.swing.JFrame;
 
-public class Application {
+public class App {
     public static void main(String[] args) {
         JFrame okno = new JFrame("Planetary Movement Game");
         okno.setBounds(10, 10, 1000, 700);

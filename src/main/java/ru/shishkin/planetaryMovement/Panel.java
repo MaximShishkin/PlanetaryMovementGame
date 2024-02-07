@@ -1,4 +1,4 @@
-package ru.shishkin.planetarymovementgame;
+package ru.shishkin.planetaryMovement;
 
 import java.awt.Color;
 import java.awt.Graphics;
