@@ -23,10 +23,12 @@
     "Application.ru.shishkin.maxim.planetaryMovement.App.executor": "Run",
     "Maven.PlanetaryMovement [clean].executor": "Run",
     "Maven.PlanetaryMovement [install].executor": "Run",
+    "Maven.planetary-movement [clean].executor": "Run",
+    "Maven.planetary-movement [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/Admin/Desktop/gitt/planetary-movement",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
@@ -40,14 +42,14 @@
   <component name="RunManager" selected="Application.ru.shishkin.maxim.planetaryMovement.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.shishkin.planetaryMovement.App" />
-      <module name="PlanetaryMovement" />
+      <module name="planetary-movement" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.shishkin.planetarymovementgame.Application" />
-      <module name="PlanetaryMovement" />
+      <module name="planetary-movement" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ru.shishkin.planetarymovementgame.*" />
@@ -60,7 +62,7 @@
     </configuration>
     <configuration name="ru.shishkin.maxim.planetaryMovement.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.shishkin.maxim.planetaryMovement.App" />
-      <module name="PlanetaryMovement" />
+      <module name="planetary-movement" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
